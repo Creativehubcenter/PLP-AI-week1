@@ -1,7 +1,3 @@
-# crypto_buddy.py
-# Beginner-friendly rule-based crypto advisor chatbot
-# Paste into a Jupyter cell or a .py file and run.
-
 crypto_db = {
     "Bitcoin": {
         "price_trend": "rising",
