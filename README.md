@@ -1,5 +1,5 @@
 # CryptoBuddy 
-*"Your First AI-Powered Financial Sidekick!"* 
+*"First AI-Powered Financial Sidekick!"* 
 
 ## Overview
 CryptoBuddy is a beginner-friendly, **rule-based chatbot** built in Python.  
@@ -21,4 +21,5 @@ This project was created as **Week 1 Assignment** for the PLP Academy AI/Chatbot
 - Built-in disclaimer: *Not financial advice — always DYOR!*  
 
 ---
+
 
