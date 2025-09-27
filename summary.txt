@@ -1,0 +1,29 @@
+Week 1 Assignment: Build a Cryptocurrency Advisor Chatbot
+Theme: "Your First AI-Powered Financial Sidekick!"
+
+Objective:
+The goal of this assignment was to create a simple rule-based chatbot in Python that analyzes cryptocurrency data and provides advice based on profitability (price trends) and sustainability (energy efficiency, project viability).
+
+Tools & Approach:
+- Language: Python
+- Environment: Jupyter Notebook / Google Colab
+- Libraries: None required (basic if-else logic used)
+- Dataset: Predefined crypto information (Bitcoin, Ethereum, Cardano)
+
+Implementation Summary:
+- Designed chatbot personality: friendly and supportive.
+- Implemented rule-based decision-making using if-else logic.
+- Added conversational flow for queries like:
+  * Which crypto is trending?
+  * What’s the most sustainable coin?
+  * Which coin is best for long-term growth?
+- Built logic to recommend coins based on rising trends, high market cap, and sustainability score.
+- Added disclaimer: “Crypto is risky—always do your own research!”
+
+Learning Outcomes:
+- Learned how rule-based AI makes simple decisions.
+- Practiced using structured datasets for decision-making.
+- Understood how to link data, logic, and chatbot interaction.
+
+Note:
+This chatbot is for educational purposes only and not financial advice.
